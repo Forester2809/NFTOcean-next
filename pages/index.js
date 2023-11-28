@@ -4,6 +4,7 @@ import HomeSlider from "../components/Home/HomeSlider";
 import HomeTranding from "../components/Home/HomeTranding";
 import FooterOne from "../components/Layout/Footers/FooterOne";
 import HeaderOne from "../components/Layout/Headers/HeaderOne";
+// import HeaderTwo from "../components/Layout/Headers/HeaderTwo";
 import HomeCollections from "../components/Home/HomeCollections"
 import HomeFeature from "../components/Home/HomeFeature";
 

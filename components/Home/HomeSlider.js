@@ -8,7 +8,7 @@ import SlideItem from './Homeslider/SlideItem';
 import { Pagination } from "swiper";
 
 
-const HomeSlider=()=>{
+const HomeSlider = () => {
 
 // initital slide per view
 function InitialSlide(){
@@ -28,7 +28,6 @@ return(
 <div className="hero_style__one pt-20 bg-body">
 <div className="container-fluid px-4">
     <div className="swiper hero_slider__one">
-
         <Swiper
          slidesPerView={InitialSlide()}
          speed={1000}
@@ -51,9 +50,9 @@ return(
 
         <SwiperSlide>
             <SlideItem
-             image="/images/hero/hero-one-i.png"
-             name="Ave avatars 1.0"
-             title="Blazing Futures ꜩ"
+             image="/images/my_images/img.png"
+             name="Slide 1"
+             title="Cointop"
             />
         </SwiperSlide>
 
@@ -80,8 +79,6 @@ return(
              title="Blazing Futures ꜩ"
             />
         </SwiperSlide>
-
-
 
         </Swiper>
 
