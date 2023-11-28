@@ -51,7 +51,7 @@ return(
         <SwiperSlide>
             <SlideItem
              image="/images/my_images/img.png"
-             name="Slide 1"
+             name="Slide 2"
              title="Cointop"
             />
         </SwiperSlide>
